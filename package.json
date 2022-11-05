@@ -1,0 +1,27 @@
+{
+  "name": "gulp-js-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parvin-Gasimli/Gulp-js-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parvin-Gasimli/Gulp-js-testing/issues"
+  },
+  "homepage": "https://github.com/Parvin-Gasimli/Gulp-js-testing#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.56.0"
+  }
+}
